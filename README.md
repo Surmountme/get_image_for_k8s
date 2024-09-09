@@ -2,6 +2,9 @@
 - docker
 - containerd
 
+  &emsp; &emsp; 示例如下所示：
+  [gi_sample](./gi_sample.png)
+
 ## 1、快速用法
 
 &emsp; &emsp; 下载该脚本至服务器
