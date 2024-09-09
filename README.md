@@ -5,8 +5,10 @@
   &emsp; &emsp; 示例如下所示：
   ![gi_sample](./gi_sample.png)
 
-## 1.依赖组件
-&emsp; &emsp; 目前主要依赖  [jq](https://stedolan.github.io/jq/)
+## 1.注意事项 
+- 依赖外部组件  [jq](https://stedolan.github.io/jq/)
+- 使用该命令需要在kubernetes 的master 节点
+- 若IMAGE_ID为Unknown，则代表当前节点没有该镜像
 
 ## 2.快速用法
 
