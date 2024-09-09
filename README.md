@@ -3,7 +3,7 @@
 - containerd
 
   &emsp; &emsp; 示例如下所示：
-  [gi_sample](./gi_sample.png)
+  ![gi_sample](./gi_sample.png)
 
 ## 1、快速用法
 
