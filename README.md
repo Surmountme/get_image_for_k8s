@@ -6,7 +6,7 @@
   ![gi_sample](./gi_sample.png)
 
 ## 1.依赖组件
-&emsp; &emsp; 目前主要依赖[jq](https://stedolan.github.io/jq/)
+&emsp; &emsp; 目前主要依赖  [jq](https://stedolan.github.io/jq/)
 
 ## 2.快速用法
 
