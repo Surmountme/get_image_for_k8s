@@ -1,4 +1,4 @@
-&emsp; &emsp; 该脚本主要用于日常工作早，一键获取Kubernetes指定命名空间下对应的Pod名称、使用的镜像、镜像ID、当前Pod运行状态，Pod所在节点，方便核对所使用的镜像信息，支持以下container runtime
+&emsp; &emsp; 该脚本主要用于日常工作中，一键获取Kubernetes指定**命名空间**下对应的Pod名称、使用的镜像、镜像ID、当前Pod运行状态，Pod所在节点，方便核对所使用的镜像信息，支持以下container runtime
 - docker
 - containerd
 
